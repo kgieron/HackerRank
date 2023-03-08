@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversionConsoleApp", "TimeConversionConsoleApp\TimeConversionConsoleApp.csproj", "{EF089702-7123-41F0-BF2D-4C687B0A95E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversionTests", "TimeConversionTests\TimeConversionTests.csproj", "{08A5F509-3C28-46EA-B39A-984DA1D256F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF089702-7123-41F0-BF2D-4C687B0A95E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF089702-7123-41F0-BF2D-4C687B0A95E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF089702-7123-41F0-BF2D-4C687B0A95E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF089702-7123-41F0-BF2D-4C687B0A95E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A5F509-3C28-46EA-B39A-984DA1D256F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A5F509-3C28-46EA-B39A-984DA1D256F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A5F509-3C28-46EA-B39A-984DA1D256F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A5F509-3C28-46EA-B39A-984DA1D256F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BCD5F1A-F099-4F6E-9969-D5AEF8D495EB}
+	EndGlobalSection
+EndGlobal
